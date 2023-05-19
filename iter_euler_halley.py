@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 def iter(x0, f, df, ddf, eps, maxit):
     step = 0
