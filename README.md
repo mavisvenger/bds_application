@@ -2,7 +2,7 @@
 
 Find the roots of the function
 f(x) = x^4 − x − 2
-with all of the methods (Method 1-3) described above.
+via Ordinary Iteration method, Euler-Chebushev's method and Halley's method.
 
 Terminate iteration process if |f(xn+1)| ≤ 10−8. Print out all computed values of xn and the number of iterations needed to obtain the required accuracy.
 The code of the solution must contain the following functions:
